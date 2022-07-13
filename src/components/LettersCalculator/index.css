@@ -1,0 +1,47 @@
+/* Write your code here. */
+.app-container {
+  margin: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+.letter-counter-container {
+  background-image: linear-gradient(to right, #1d976c, #eef1ef);
+  height: 100vh;
+  width: 80vw;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.color {
+  color: white;
+}
+
+.heading {
+  width: 200px;
+  margin: 10px;
+}
+
+.count-container {
+  background-color: white;
+  border-radius: 5px;
+  width: 200px;
+  color: #1d976c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+  margin-left: 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.input {
+  background-color: transparent;
+  border: 1px solid white;
+  width: 250px;
+  height: 25px;
+}
+.image {
+  height: 400px;
+  width: 500px;
+}
